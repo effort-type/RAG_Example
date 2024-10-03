@@ -1,0 +1,8 @@
+.idea
+.venv
+
+# 벡터 저장소
+chroma_db
+
+# 개인정보 (API Key)
+.env
